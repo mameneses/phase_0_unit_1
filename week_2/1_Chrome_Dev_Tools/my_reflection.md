@@ -1,5 +1,7 @@
 # U1.W2: Chrome Dev Tools Challenge Reflection
 
+Chrome Dev Tools ( http://mameneses.smugmug.com/Chrom-wev-dev-tools/i-p5cjDN7/0/L/chrome_web_tool-L.png)
+
 * Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
 The DOM seems to be the framework or foundation to make sense of HTML files and JS. It makes sense that it defines the code elements and maps them in a tree like structure. This is great for me as a learnings because structure is incredible helpful, but it’s that to an advanced coder who is trying to think beyond the simple code, it may be limiting. 
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
