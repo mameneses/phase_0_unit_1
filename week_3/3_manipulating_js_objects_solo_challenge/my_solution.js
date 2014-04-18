@@ -15,11 +15,11 @@ var terah = {
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
-
+    Define  variable adam and make equal to an empty object literal
 2. Give adam a name property with the value "Adam".
-
+    Set a name: "Adam" within the the empty object literal of variable adam.
 3. Add a spouse property to terah and assign it the value of adam.
-
+    
 4. Change the value of the terah weight property to 125.
 
 5. Remove the eyeColor property from terah.
