@@ -46,12 +46,31 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name: "Adam"
+};
 
+terah.spouse = adam;
 
+terah.weight = 125;
 
+delete terah.eyeColor;
 
+adam.spouse = terah;
 
+terah.children = {
+  carson: {
+    name: "Carson"
+  },
+  carter: {
+    name: "Carter"
+  },
+  colton: {
+    name: "Colton"
+  },
+};
 
+adam.children = terah.children;
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
