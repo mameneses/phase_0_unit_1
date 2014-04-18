@@ -19,27 +19,27 @@ var terah = {
 2. Give adam a name property with the value "Adam".
     Set a name: "Adam" within the the empty object literal of variable adam.
 3. Add a spouse property to terah and assign it the value of adam.
-    
+    Set terah add "spouse" property and make it = the value adam
 4. Change the value of the terah weight property to 125.
-
+    Set terah property of weight = to 125.
 5. Remove the eyeColor property from terah.
-
+    delete terah property of eyeColor
 6. Add a spouse property to adam and assign it the value of terah.
-
+    set adam property of spouse = to terah.
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
-
+    set terah and add property children = an empty object in object literal notation.
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
-
+    In terah property of children set a property of carson and within carson set a name property : to "Carson"
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
-
+    In terah property of children set a property of carter and within carson set a name property : to "Carter"
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
-
+    In terah property of children set a property of colton and within carson set a name property : to "Colton"
 11. Add a children property to adam and assign it the value of terah children.
-
+    Add variable adam with property of children and set = variable tarah with property of children.
 
 */
 
@@ -74,14 +74,14 @@ adam.children = terah.children;
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
-
-
+// The strategy of having set tasks to be complete via code was very effective and helpful in 
+// understanding js objectives. I ran into issues when it came to what code was to be used 
+// and was to be left as is, luckily the google+ help to answer those questions. I had some
+// about syntax of certain operation, such as removing a property from an object which 
+// stackoverflow.com was helpful answering. I learned many new things mainly about JS objects
+// and manipulating JS objects. This has greatly increased my confidence level but i still feel
+// that more learnings is needed to master this. I really enjoyed creating the code from the
+// the questions. I did not enjoy the tedious psuedo code.
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
