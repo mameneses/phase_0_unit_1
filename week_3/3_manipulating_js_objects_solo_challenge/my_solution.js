@@ -75,10 +75,10 @@ adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // The strategy of having set tasks to be complete via code was very effective and helpful in 
-// understanding js objectives. I ran into issues when it came to what code was to be used 
-// and was to be left as is, luckily the google+ help to answer those questions. I had some
-// about syntax of certain operation, such as removing a property from an object which 
-// stackoverflow.com was helpful answering. I learned many new things mainly about JS objects
+// understanding js objects. I ran into issues when it came to what code was to be used 
+// and what code was to be left as is, luckily the google+ group board  helped to answer those questions. I had some
+// questions about syntax of certain operation, such as removing a property from an object, which 
+// stackoverflow.com was helpful answering. I learned many new things, mainly about JS objects
 // and manipulating JS objects. This has greatly increased my confidence level but i still feel
 // that more learnings is needed to master this. I really enjoyed creating the code from the
 // the questions. I did not enjoy the tedious psuedo code.
