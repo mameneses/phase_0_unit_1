@@ -77,11 +77,15 @@ tharin.bustDownDoor();
 
 
 // Reflection
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
+/*
+The strategy of using code combat to come up with workable options worked 
+in the sense that it allowed for some creativity which, for me, is usually 
+when I am able to solidify information as I translate it into my own thought 
+process. While leavings it opens ended can be great to spark creativity, it 
+was difficult to find a starting off point. I found it helpful to take a 
+look back at the code combat website for inspiration as well as review other 
+peoples projects and asking for help from peers. I was having trouble with 
+refactoring and attempting to make the code better and was able to gain insight 
+from others work. I enjoyed the creativity of being able to build a mission but 
+the refactoring can be a bit confusing or tedious when it is left so open ended. 
+*/ 
