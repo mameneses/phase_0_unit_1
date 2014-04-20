@@ -82,11 +82,11 @@ this.attackXY(49, 51); // Shoot agian to kill big ogre
 
  
 // Reflection:
-// While I like the game aspect of the coding, but it did not do much to solidify how the main concepts 
+// While I like the game aspect of the coding, it did not do much to solidify how the main concepts 
 // are used. It did help with just remembering the structure of basic code but was not beneficial to learn 
 // new material. It was a good break from the usual article but it was tedious to enter pseudo code for all of 
-// the lines  and move made. I did not run into any problems while coding, expect a slow computer, and did not 
-//eed any additional resource to finish the game. 
+// the lines  and moves made. I did not run into any problems while coding, expect a slow computer, and did not 
+//need any additional resource to finish the game. 
 
 // •	What is this referring to? Think programming-wise rather than in the terms of the game.
 // “this” is referring to the parent object that contains all of the “properties” and “functions that control 
